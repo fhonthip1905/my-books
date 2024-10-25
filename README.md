@@ -9,5 +9,27 @@ Currently, two official plugins are available:
 # my-books
 
 # project file structure
+__ public
+    |__ images
+        |__books
+        |    |-- book-s-01.png
+        |    |-- book-s-02.png
+        |
+        |__logo
+            |-- logo.png
+    |-- book.svg
+    |-- vite.svg
+__ src
+    |__ components
+        |--Header.jsx
+        |--Header.css
+        |--CardItem.jsx
+        |--CardItem.css
+        |--ModalPost.jsx
+        |--ModalPost.css
+    |-- App.jsx
+    |-- App.css
+    |-- Main.jsx
 
+     
 
