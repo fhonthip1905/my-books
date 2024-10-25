@@ -33,7 +33,7 @@ export default [
         "warn",
         { allowConstantExport: true },
       ],
-      // fix react-props-type
+      // fix
       "react/prop-types": 0,   
     },
   },
